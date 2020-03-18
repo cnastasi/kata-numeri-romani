@@ -1,3 +1,5 @@
+![Workout](header-image.png)
+
 # Kata 1 - Numeri romani
 
 Liberante tratto e riadattato da: 
